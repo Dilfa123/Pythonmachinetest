@@ -1,0 +1,21 @@
+# Environment variables and secrets
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Database files (optional, keeps workspace clean)
+*.db-journal
+
+# Tooling and caches
+.ruff_cache/
